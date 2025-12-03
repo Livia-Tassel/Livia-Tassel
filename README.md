@@ -28,7 +28,7 @@
 
 </br>
 
-<img align="right" alt="Coding" width="300" src="./assets/ginger-9997.gif">
+<img align="right" alt="Coding" width="300" src="./ginger.gif">
 
 📚 **More Articles**
 
