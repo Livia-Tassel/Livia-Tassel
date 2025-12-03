@@ -45,7 +45,7 @@
 > feel free for asking me any questions.\
 > [me!](https://github.com/Livia-Tassel/Livia-Tassel/issues/new/choose)
 
-</br>
+---
 
 <div align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details"> 
@@ -62,4 +62,3 @@
 </div>
 
 </br>
-
