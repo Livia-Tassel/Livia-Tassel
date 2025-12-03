@@ -21,11 +21,10 @@
 
 <!-- Social Media Badges -->
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/Livia_Tassel)
-[![GitHub 总星数](https://img.shields.io/github/stars/Livia_Tassel?style=social)](https://github.com/Livia_Tassel)
-[![Google 邮箱](https://img.shields.io/badge/Gmail-Google-green?style=flat&logo=gmail&logoColor=white)](mailto:hugonelsonm3@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Comptition-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/yunminghu)
-![ViewCount](https://views.whatilearened.today/views/github/Livia_Tassel/Livia_Tassel.svg?cache=remove)
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/Livia-Tassel)
+[![GitHub Star](https://img.shields.io/github/stars/Livia-Tassel?style=social)](https://github.com/Livia-Tassel)
+[![Google Email](https://img.shields.io/badge/Gmail-Google-green?style=flat&logo=gmail&logoColor=white)](aqwerasdgergadg@gmail.com)
+![ViewCount](https://views.whatilearened.today/views/github/Livia-Tassel/Livia-Tassel.svg?cache=remove)
 
 </br>
 
@@ -33,7 +32,7 @@
 
 📚 **More Articles**
 
-- Website: https://Livia_Tassel.com
+- Website: https://Livia-Tassel.com
 - Blog: https://ohpostintm3.top
 
 📧 **Contact Me**
@@ -45,7 +44,7 @@
 ⁉️ **Questions for me?**
 
 > feel free for asking me any question, I will reply you if I'm free.\
-> [I have a question!](https://github.com/Livia_Tassel/Livia_Tassel/issues/new/choose)
+> [I have a question!](https://github.com/Livia-Tassel/Livia-Tassel/issues/new/choose)
 
 --- 
 
@@ -55,11 +54,11 @@
       <source 
       <source 
         media="(prefers-color-scheme: light)" 
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia_Tassel&theme=graywhite">
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=graywhite">
       <img 
         width="80%"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia_Tassel&theme=highcontrast" 
-        alt="Livia_Tassel's GitHub Activity Graph" />
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=highcontrast" 
+        alt="Livia-Tassel's GitHub Activity Graph" />
     </picture>
   </a>
 </div>
@@ -77,7 +76,7 @@
 - ✨ Development of **WearOS applications** on smartwatches, including data collection and application deployment, mainly focusing on downstream tasks in my HAR research. <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 - Study of **machine learning algorithm theory** and their implementation, with detailed references in my blog.
 - I enjoy researching programming languages like **Rust**, **Golang** & others and their advanced features because they always bring the pure joy of programming. <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
-- Beautification of **Vim & Neovim** and some aesthetically pleasing frontend projects, even though they are rarely known or used, this is one of my personal favorite aspects. This is my config on [dotfile](https://dotfyle.com/Livia_Tassel). <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Avim"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aneovim"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white"></a>
+- Beautification of **Vim & Neovim** and some aesthetically pleasing frontend projects, even though they are rarely known or used, this is one of my personal favorite aspects. This is my config on [dotfile](https://dotfyle.com/Livia-Tassel). <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Avim"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aneovim"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white"></a>
 - Additionally, I sometimes pay attention to **numerical computation and optimization theory**, which have significant applications in engineering and machine learning.
 
 **📅 2025 Goals**
@@ -92,14 +91,14 @@
 ## ✨ GitHub Stats & Languages
 
 <p align="center">
-  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=Livia_Tassel&show_icons=true&hide_border=true&theme=ambient_gradient&rank_icon=rank" alt="Livia_Tassel's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livia_Tassel&hide=vim%20script,jupyter%20notebook,lua,HTML&show_icons=true&layout=donut&hide_border=true&theme=ambient_gradient" alt="Top Languages" />
+  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=Livia-Tassel&show_icons=true&hide_border=true&theme=ambient_gradient&rank_icon=rank" alt="Livia-Tassel's GitHub Stats" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livia-Tassel&hide=vim%20script,jupyter%20notebook,lua,HTML&show_icons=true&layout=donut&hide_border=true&theme=ambient_gradient" alt="Top Languages" />
 </p>
 
 <!-- 所有项目 -->
 
 <div align="left">
-  <a href="https://github.com/Livia_Tassel?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Livia-Tassel?tab=repositories&sort=stargazers">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
