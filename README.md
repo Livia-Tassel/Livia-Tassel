@@ -47,21 +47,19 @@
 
 </br>
 
-</br>
-<!-- projects -->
-
-<div align="left">
-  <a href="https://github.com/Livia-Tassel?tab=repositories&sort=stargazers">
+<div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details"> 
     <picture>
       <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://custom-icon-badges.demolab.com/badge/-Click-FFFFFF?style=for-the-badge&logoColor=000000&logo=repo" width="278"/>
-      <source 
         media="(prefers-color-scheme: light)" 
-        srcset="https://custom-icon-badges.demolab.com/badge/-Click-000000?style=for-the-badge&logoColor=FFFFFF&logo=repo" width="278"/>
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=FFFFFF&logo=repo" width="278"/>
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=graywhite">
+      <img 
+        width="80%"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=highcontrast" 
+        alt="Livia-Tassel's GitHub Activity Graph" />
     </picture>
   </a>
 </div>
 
 </br>
+
