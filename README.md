@@ -45,28 +45,9 @@
 > feel free for asking me any questions.\
 > [me!](https://github.com/Livia-Tassel/Livia-Tassel/issues/new/choose)
 
---- 
-
-<div align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details"> 
-    <picture>
-      <source 
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=graywhite">
-      <img 
-        width="80%"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=highcontrast" 
-        alt="Livia-Tassel's GitHub Activity Graph" />
-    </picture>
-  </a>
-</div>
-
----
-
-</br>
 </br>
 
+</br>
 <!-- projects -->
 
 <div align="left">
@@ -83,11 +64,4 @@
   </a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br></details>
-<img src="https://imgur.com/rilHVxA.png"/>
+</br>
