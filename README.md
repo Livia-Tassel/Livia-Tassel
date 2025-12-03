@@ -46,17 +46,18 @@
 ---
 
 <div align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details"> 
-    <picture>
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=graywhite">
-      <img 
-        width="80%"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=highcontrast" 
-        alt="Livia-Tassel's GitHub Activity Graph" />
-    </picture>
-  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details"> 
+    <picture>
+      <source 
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=graywhite">
+      <img 
+        width="80%"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Livia-Tassel&theme=highcontrast" 
+        alt="Livia-Tassel's GitHub Activity Graph" />
+    </picture>
+  </a>
 </div>
 
 </br>
