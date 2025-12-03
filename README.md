@@ -26,24 +26,37 @@
 [![Google Email](https://img.shields.io/badge/Gmail-Google-green?style=flat&logo=gmail&logoColor=white)](mailto:aqwerasdgergadg@gmail.com)
 ![ViewCount](https://views.whatilearened.today/views/github/Livia-Tassel/Livia-Tassel.svg?cache=remove)
 
-</br>
+<br>
+<br>
 
-<img align="right" alt="Coding" width="300" src="./ginger.gif">
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>📚 More Articles</h3>
+      <ul>
+        <li>Bilibili: <a href="https://space.bilibili.com/3493122610825915">My Bilibili Space</a></li>
+        <li>Blog: <a href="https://www.cnblogs.com/code-yiyi">code-yiyi</a></li>
+      </ul>
 
-📚 **More Articles**
+      <h3>📧 Contact Me</h3>
+      <ul>
+        <li>Google: aqwerasdgergadg@gmail.com</li>
+        <li>QQ: 3459465562@qq.com</li>
+      </ul>
 
-- Bilibili: https://space.bilibili.com/3493122610825915
-- Blog: https://www.cnblogs.com/code-yiyi
+      <h3>⁉️ Questions for Me?</h3>
+      <blockquote>
+        Feel free to ask me any questions.<br>
+        <a href="https://github.com/Livia-Tassel/Livia-Tassel/issues/new/choose">Ask me here!</a>
+      </blockquote>
+    </td>
+    <td width="40%" align="center" valign="center">
+      <img src="./ginger.gif" alt="Coding" width="100%">
+    </td>
+  </tr>
+</table>
 
-📧 **Contact Me**
-
-- Google : aqwerasdgergadg@gmail.com
-- QQ : 3459465562@qq.com
-
-⁉️ **Questions for Me?**
-
-> feel free for asking me any questions.\
-> [me!](https://github.com/Livia-Tassel/Livia-Tassel/issues/new/choose)
+<br>
 
 ---
 
