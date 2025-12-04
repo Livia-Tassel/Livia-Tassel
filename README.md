@@ -3,20 +3,20 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Action+Once+More.">
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Action+Once+More.">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Action+Once+More."
-        alt="Typing SVG"
-      />
-    </picture>
-  </a>
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Action+Once+More.">
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Action+Once+More.">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Action+Once+More."
+        alt="Typing SVG"
+      />
+    </picture>
+  </a>
 </h1>
 
 <!-- Social Media Badges -->
